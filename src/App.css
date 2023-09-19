@@ -1,0 +1,116 @@
+.question-card{
+  width:50%;
+  margin:100px auto 0;
+}
+.time{
+  color:white;
+  border:2px solid white;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-weight: bold;
+  padding: 8px;
+  border-radius: 20px;
+
+}
+.top-info{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.jokers{
+  color:white;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+.jokers div{
+  border:1px solid white;
+  margin-right: 10px;
+  width: 100px;
+  text-align: center;
+  border-radius: 30px;
+  height: 50px;
+  padding: 13px;
+}
+.twoAnswer{
+  pointer-events: none;
+  opacity: 0.2;
+}
+.question{
+  width: 100%;
+  border:2px solid white;
+  background-image:linear-gradient(rgb(3, 5, 43),rgb(28, 15, 173));
+  opacity: 0.8;
+  color:white;
+  margin-top:30px;
+  margin-bottom:70px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.options{
+  display: grid;
+  width:100%;
+  grid-template-columns: auto auto;
+  grid-template-rows: 30px 30px;
+  gap:10px;
+}
+.opt{
+  border:2px solid white;
+  background-image:linear-gradient(rgb(3, 5, 43),rgb(28, 15, 173));
+  opacity: 0.8;
+  color:white;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.app{
+  display: flex;
+  justify-content: flex-end;
+  height:100vh;
+}
+.left-side{
+  width: 92%;
+  background-image: url('../public/images/wallpaper.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.right-side{
+  width: 8%;
+  min-width: 200px !important;
+  background-color:rgb(31, 31, 78);
+  color:rgb(187, 196, 212);
+}
+li span{
+  margin-right: 30px;
+  display: inline-block;
+}
+li span.order{
+  width: 30px;
+}
+li span.order-price{
+  width: 90px;
+}
+li{
+  padding:8px 0 8px 10px;
+  margin-top:30px;
+  height: 40px;
+  
+}
+ul{
+  list-style-type: none;
+  padding:0px;
+}
+li.active{
+  background-color: green;
+  opacity: 0.5;
+}
+.game-end{
+  width: 50%;
+  margin:200px auto 0;
+  color:white;
+  text-align: center;
+  font-size: 40px;
+}

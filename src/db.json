@@ -1,0 +1,124 @@
+{
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "options": [
+          {"letter": "A", "text": "London"},
+          {"letter": "B", "text": "Paris"},
+          {"letter": "C", "text": "Berlin"},
+          {"letter": "D", "text": "Madrid"}
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": [
+          {"letter": "A", "text": "Oxygen"},
+          {"letter": "B", "text": "Carbon dioxide"},
+          {"letter": "C", "text": "Nitrogen"},
+          {"letter": "D", "text": "Hydrogen"}
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "options": [
+          {"letter": "A", "text": "Earth"},
+          {"letter": "B", "text": "Mars"},
+          {"letter": "C", "text": "Jupiter"},
+          {"letter": "D", "text": "Venus"}
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": [
+          {"letter": "A", "text": "William Shakespeare"},
+          {"letter": "B", "text": "Charles Dickens"},
+          {"letter": "C", "text": "Jane Austen"},
+          {"letter": "D", "text": "Mark Twain"}
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+          {"letter": "A", "text": "Ag"},
+          {"letter": "B", "text": "Au"},
+          {"letter": "C", "text": "Fe"},
+          {"letter": "D", "text": "Cu"}
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "What is the capital of France?",
+        "options": [
+          {"letter": "A", "text": "London"},
+          {"letter": "B", "text": "Paris"},
+          {"letter": "C", "text": "Berlin"},
+          {"letter": "D", "text": "Madrid"}
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": [
+          {"letter": "A", "text": "Oxygen"},
+          {"letter": "B", "text": "Carbon dioxide"},
+          {"letter": "C", "text": "Nitrogen"},
+          {"letter": "D", "text": "Hydrogen"}
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "What is the largest planet in our solar system?",
+        "options": [
+          {"letter": "A", "text": "Earth"},
+          {"letter": "B", "text": "Mars"},
+          {"letter": "C", "text": "Jupiter"},
+          {"letter": "D", "text": "Venus"}
+        ],
+        "answer": "C"
+      },
+      {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": [
+          {"letter": "A", "text": "William Shakespeare"},
+          {"letter": "B", "text": "Charles Dickens"},
+          {"letter": "C", "text": "Jane Austen"},
+          {"letter": "D", "text": "Mark Twain"}
+        ],
+        "answer": "A"
+      },
+      {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+          {"letter": "A", "text": "Ag"},
+          {"letter": "B", "text": "Au"},
+          {"letter": "C", "text": "Fe"},
+          {"letter": "D", "text": "Cu"}
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "What is the capital of France?",
+        "options": [
+          {"letter": "A", "text": "London"},
+          {"letter": "B", "text": "Paris"},
+          {"letter": "C", "text": "Berlin"},
+          {"letter": "D", "text": "Madrid"}
+        ],
+        "answer": "B"
+      },
+      {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": [
+          {"letter": "A", "text": "Oxygen"},
+          {"letter": "B", "text": "Carbon dioxide"},
+          {"letter": "C", "text": "Nitrogen"},
+          {"letter": "D", "text": "Hydrogen"}
+        ],
+        "answer": "B"
+      }   
+    ]
+  }
